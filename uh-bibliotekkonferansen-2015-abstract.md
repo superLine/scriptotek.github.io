@@ -32,9 +32,7 @@ og en kartløsning som peker brukere til hylla der dokumentet befinner seg.
 IT-organisasjonen.
 
 Vi ser at det er et stort potensiale for egenutvikling i bibliotek og utveksling av løsninger.
-Med inntoget av Oria og Alma i horisonten ser scriptoteket også muligheten i å kunne utveksle
-ideer og løsninger internasjonalt. Scriptteket ser særlig på muligheten til å jobbe med
+Med inntoget av Oria og Alma i horisonten ser Scriptoteket også muligheten i å kunne utveksle
+ideer og løsninger internasjonalt. Da særlig på muligheten til å jobbe med
 løsninger for søking og navigering i kontrollerte emneord samt bruk av LOD for å koble
-bibliotekets resurser med andre ting. En annen problemstilling vi møter daglig i Oria er
-manglende mulighet for å lenke til titler i katalogen, kanskje finnes det en løsning for
-dette som kan implementeres eller kanskje scriptoteket kan jobbe frem en løsning.
+bibliotekets resurser med andre ressurser. 
