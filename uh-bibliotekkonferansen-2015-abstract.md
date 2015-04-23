@@ -1,10 +1,10 @@
 ## Scriptoteket
 *Dan Michael O. Heggø, Kyrre T. Låberg, Live H. Kvale, Line N. Akerholt, Maria Hammerstrøm*
 
-«Det må da være en enklere/bedre måte å løse dette på! Hva hvis…?» Fra Realfagsbiblioteket
-observerte vi i 2013 at det ved hele fire avdelingsbibliotek
-var utviklet enkle script og programmer lokalt, blant annet for å automatisere
-skrankerutiner. Det ble tatt initiativ til å danne et nettverk for å dele kode og konkrete
+«Det må da være en enklere og bedre måte å løse dette på! Hva hvis…? Kunne vi...?» Fra Realfagsbiblioteket
+observerte vi i 2013 at det ved alle fire avdelingsbibliotek av Universitetsbiblioteket i Oslo
+var utviklet enkle script og programmer lokalt, for å automatisere
+skrankerutiner og forenkle arbeidsprosesser. Det ble tatt initiativ til å danne et nettverk for å dele kode og konkrete
 resultater, men også erfaringer og tips om for eksempel programmeringsgrensesnitt og
 rett verktøy til rett oppgave. Tanken var at et nettverk kan bidra til å redusere
 risikoen for at løsninger blir altfor avhengige av én bestemt person for å fungere.
@@ -19,7 +19,7 @@ gjenbruk av biblioteksdata, enten det er nye bibliotekarer eller studentbetjente
 programmeringskompetanse, informatikkstudenter som ønsker å gjøre et prosjekt i biblioteket,
 eller kanskje til og med innleide konsulenter eller andre eksterne.
 
-Scriptoteket er ikke-prosjekt for lokal, løsningsorientert utvikling. Vi vil presentere fire
+Scriptoteket er et "ikke-prosjekt" for lokal, løsningsorientert utvikling. Vi vil presentere fire
 av løsningene våre:
 - Bibduck: opprinnelig et script for å få programvare for RFID-plater til å kommunisere med Bibsys,
 som utviklet seg til et generelt automatiseringsrammeverk for Bibsys og nå tar seg av prosesser
